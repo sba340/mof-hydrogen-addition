@@ -1,0 +1,8 @@
+# Real research CIFs -- never commit these (MOF paper is unpublished/in revision)
+*.cif
+!examples/ring_no_H.cif
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
